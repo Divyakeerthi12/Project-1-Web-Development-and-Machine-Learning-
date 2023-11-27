@@ -1,0 +1,11 @@
+id,userId,productId,status
+1,91,34,Different
+2,91,128,Different
+3,92,15,Different
+4,92,16,Different
+5,93,34,Different
+6,93,57,Different
+7,93,122,Different
+8,94,52,Same
+9,94,53,Same
+13,96,34,Different

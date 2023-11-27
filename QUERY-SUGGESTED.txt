@@ -1,0 +1,1 @@
+select distinct association.antecedent,products.id,products.productImage1,products.productName,products.productPrice,products.productPriceBeforeDiscount,products.productAvailability,orders.userId,orders.productId from association,products,orders where association.antecedent=products.productName and orders.productId=products.id and orders.userId=12

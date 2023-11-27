@@ -1,0 +1,61 @@
+,Unnamed: 0,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+0,0,"frozenset({('userId', 'Asian Casuals  (White, White)')})","frozenset({('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+1,1,"frozenset({('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})","frozenset({('userId', 'Asian Casuals  (White, White)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+2,2,"frozenset({('userId', 'Tshirt')})","frozenset({('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+3,3,"frozenset({('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})","frozenset({('userId', 'Tshirt')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+4,4,"frozenset({('userId', 'Tshirt')})","frozenset({('userId', 'Asian Casuals  (White, White)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+5,5,"frozenset({('userId', 'Asian Casuals  (White, White)')})","frozenset({('userId', 'Tshirt')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+6,6,"frozenset({('userId', 'EthnoVogue')})","frozenset({('userId', 'eaing4')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+7,7,"frozenset({('userId', 'eaing4')})","frozenset({('userId', 'EthnoVogue')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+8,8,"frozenset({('userId', 'EthnoVogue')})","frozenset({('userId', 'heels')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+9,9,"frozenset({('userId', 'heels')})","frozenset({('userId', 'EthnoVogue')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+10,10,"frozenset({('userId', 'Son of Frankenstein')})","frozenset({('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+11,11,"frozenset({('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings')})","frozenset({('userId', 'Son of Frankenstein')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+12,12,"frozenset({('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings')})","frozenset({('userId', 'The haunting')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+13,13,"frozenset({('userId', 'The haunting')})","frozenset({('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+14,14,"frozenset({('userId', 'Lazy Bone TV remote')})","frozenset({('userId', 'HDMI 1.0 Cable')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+15,15,"frozenset({('userId', 'HDMI 1.0 Cable')})","frozenset({('userId', 'Lazy Bone TV remote')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+16,16,"frozenset({('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)')})","frozenset({('userId', 'HDMI 1.0 Cable')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+17,17,"frozenset({('userId', 'HDMI 1.0 Cable')})","frozenset({('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+18,18,"frozenset({('userId', 'Lazy Bone TV remote')})","frozenset({('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+19,19,"frozenset({('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)')})","frozenset({('userId', 'Lazy Bone TV remote')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+20,20,"frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed')})","frozenset({('userId', 'sofa')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+21,21,"frozenset({('userId', 'sofa')})","frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+22,22,"frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed')})","frozenset({('userId', 'wardrobe')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+23,23,"frozenset({('userId', 'wardrobe')})","frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+24,24,"frozenset({('userId', 'Son of Frankenstein')})","frozenset({('userId', 'The haunting')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+25,25,"frozenset({('userId', 'The haunting')})","frozenset({('userId', 'Son of Frankenstein')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+26,26,"frozenset({('userId', 'eaing4')})","frozenset({('userId', 'heels')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+27,27,"frozenset({('userId', 'heels')})","frozenset({('userId', 'eaing4')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+28,28,"frozenset({('userId', 'wardrobe')})","frozenset({('userId', 'sofa')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+29,29,"frozenset({('userId', 'sofa')})","frozenset({('userId', 'wardrobe')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+30,30,"frozenset({('userId', 'Tshirt'), ('userId', 'Asian Casuals  (White, White)')})","frozenset({('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+31,31,"frozenset({('userId', 'Tshirt'), ('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})","frozenset({('userId', 'Asian Casuals  (White, White)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+32,32,"frozenset({('userId', 'Asian Casuals  (White, White)'), ('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})","frozenset({('userId', 'Tshirt')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+33,33,"frozenset({('userId', 'Tshirt')})","frozenset({('userId', 'Asian Casuals  (White, White)'), ('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+34,34,"frozenset({('userId', 'Asian Casuals  (White, White)')})","frozenset({('userId', 'Tshirt'), ('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+35,35,"frozenset({('userId', 'Adidas MESSI 16.3 TF Football turf Shoes  (Blue)')})","frozenset({('userId', 'Tshirt'), ('userId', 'Asian Casuals  (White, White)')})",0.1,0.1,0.1,1.0,10.0,0.09,inf,1.0
+36,36,"frozenset({('userId', 'EthnoVogue'), ('userId', 'eaing4')})","frozenset({('userId', 'heels')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+37,37,"frozenset({('userId', 'EthnoVogue'), ('userId', 'heels')})","frozenset({('userId', 'eaing4')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+38,38,"frozenset({('userId', 'eaing4'), ('userId', 'heels')})","frozenset({('userId', 'EthnoVogue')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+39,39,"frozenset({('userId', 'EthnoVogue')})","frozenset({('userId', 'eaing4'), ('userId', 'heels')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+40,40,"frozenset({('userId', 'eaing4')})","frozenset({('userId', 'EthnoVogue'), ('userId', 'heels')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+41,41,"frozenset({('userId', 'heels')})","frozenset({('userId', 'EthnoVogue'), ('userId', 'eaing4')})",0.3,0.3,0.3,1.0,3.333333333333333,0.21,inf,1.0
+42,42,"frozenset({('userId', 'Son of Frankenstein'), ('userId', 'The haunting')})","frozenset({('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+43,43,"frozenset({('userId', 'Son of Frankenstein'), ('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings')})","frozenset({('userId', 'The haunting')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+44,44,"frozenset({('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings'), ('userId', 'The haunting')})","frozenset({('userId', 'Son of Frankenstein')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+45,45,"frozenset({('userId', 'Son of Frankenstein')})","frozenset({('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings'), ('userId', 'The haunting')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+46,46,"frozenset({('userId', 'The haunting')})","frozenset({('userId', 'Son of Frankenstein'), ('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+47,47,"frozenset({('userId', 'Ghosts of The Silent Hills: Stories based on true hauntings')})","frozenset({('userId', 'Son of Frankenstein'), ('userId', 'The haunting')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+48,48,"frozenset({('userId', 'Lazy Bone TV remote'), ('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)')})","frozenset({('userId', 'HDMI 1.0 Cable')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+49,49,"frozenset({('userId', 'Lazy Bone TV remote'), ('userId', 'HDMI 1.0 Cable')})","frozenset({('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+50,50,"frozenset({('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)'), ('userId', 'HDMI 1.0 Cable')})","frozenset({('userId', 'Lazy Bone TV remote')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+51,51,"frozenset({('userId', 'Lazy Bone TV remote')})","frozenset({('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)'), ('userId', 'HDMI 1.0 Cable')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+52,52,"frozenset({('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)')})","frozenset({('userId', 'Lazy Bone TV remote'), ('userId', 'HDMI 1.0 Cable')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+53,53,"frozenset({('userId', 'HDMI 1.0 Cable')})","frozenset({('userId', 'Lazy Bone TV remote'), ('userId', 'Micromax 81cm (32) HD Ready LED TV  (32T6175MHD, 2 x HDMI, 2 x USB)')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+54,54,"frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed'), ('userId', 'wardrobe')})","frozenset({('userId', 'sofa')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+55,55,"frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed'), ('userId', 'sofa')})","frozenset({('userId', 'wardrobe')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+56,56,"frozenset({('userId', 'wardrobe'), ('userId', 'sofa')})","frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+57,57,"frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed')})","frozenset({('userId', 'wardrobe'), ('userId', 'sofa')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+58,58,"frozenset({('userId', 'wardrobe')})","frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed'), ('userId', 'sofa')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
+59,59,"frozenset({('userId', 'sofa')})","frozenset({('userId', 'Nilkamal Ursa Metal Queen Bed'), ('userId', 'wardrobe')})",0.2,0.2,0.2,1.0,5.0,0.16,inf,0.9999999999999998
